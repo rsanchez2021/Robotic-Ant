@@ -1,7 +1,9 @@
 # Robotic-Ant Diario de proyecto
 ## Diario día 1
-Primera "reuníon" el día 3/10/2022 para hacer recuento del material que disponemos y su estado.
-** El material que tenemos es: **
+Primera "reuníon" el día 3/10/2022 para hacer recuento del material que disponemos y su estado. La idea principal es montar una hormiga desde cero,basándonos en la ya montada y las piezas que tenemos, y programarla desde cero.
+
+**El material que tenemos es:**
+
   -Carcasa inferior, carcasa superior y soporte medio
   
   -Piezas unión cuerpo-cabeza y cuerpo-cola
@@ -18,7 +20,8 @@ Primera "reuníon" el día 3/10/2022 para hacer recuento del material que dispon
   
   -Mandíbula --> 1
   
-** Material que falta: **
+**Material que falta:**
+
   -Mandíbula --> 1
   
   -Servos --> 9
@@ -36,7 +39,8 @@ Se ha intentado convencer a más personas de la asociación pero nadie se ha uni
 Primera quedada el día 7/10/2022 para ver funcionalidad d los servos y las baterías. Pese a que eso era la idea de hoy, no se ha hecho, los servos de los que disponemos no tienen tope y a la hora de programar se hace mucho más difícil. Se ha llegado a la idea de primero programar la hormiga ya montada con los servos buenos y después montar la otra y programarla con mejoras a ser posible. El jefe de proyecto ha intentado meterle código a la placa pero no se ha conseguido, nuestro siguente paso es hacer que se conecte.
 En cuanto a las baterías, hemos intentado comprobar si funionaban todavía pero no lo hemos conseguido. También hemos impreso una pieza, pero de otro proyecto.
 Se ha encontrado otra pieza que necesitamos que viene con los servos, pero no hay para todos. También se han encontrado más piezas y servos en otra caja. La lista de cosas que tenemos se queda así:
-** El material que tenemos es: **
+
+**El material que tenemos es:**
   -Carcasa inferior, carcasa superior y soporte medio
   
   -Piezas unión cuerpo-cabeza y cuerpo-cola
@@ -55,7 +59,7 @@ Se ha encontrado otra pieza que necesitamos que viene con los servos, pero no ha
   
   -Unión servo-patas --> 13
   
-** Material que falta: **
+**Material que falta:**
   
   -Servos --> 7
   
